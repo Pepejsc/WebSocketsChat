@@ -1,5 +1,5 @@
 # WebSocketsChat
-**WebSocketsChat** is a real-time chat application built with Node.js and npm, utilizing WebSockets to enable instantaneous communication between users. This project showcases how to implement a simple yet effective chat server that supports multiple clients, offering a seamless and interactive messaging experience.
+**WebSocketsChat** is a real-time chat application built with Node.js, JavaScript, HTML, CSS and npm, utilizing WebSockets to enable instantaneous communication between users. This project showcases how to implement a simple yet effective chat server that supports multiple clients, offering a seamless and interactive messaging experience.
 
 ## Features
 
